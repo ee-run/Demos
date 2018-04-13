@@ -1,0 +1,11 @@
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\ReportToolDemo\obj\Debug\ReportToolDemo.ReportServiceTool.Forms.frmDirectConfig.resources
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\ReportToolDemo\obj\Debug\ReportToolDemo.ReportServiceTool.frmMain.resources
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\ReportToolDemo\obj\Debug\ReportToolDemo.Properties.Resources.resources
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\ReportToolDemo\obj\Debug\ReportToolDemo.csproj.GenerateResource.Cache
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\ReportToolDemo\bin\Debug\ReportToolDemo.exe.config
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\ReportToolDemo\bin\Debug\ReportToolDemo.exe
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\ReportToolDemo\bin\Debug\ReportToolDemo.pdb
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\ReportToolDemo\bin\Debug\log4net.dll
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\ReportToolDemo\obj\Debug\ReportToolDemo.exe
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\ReportToolDemo\obj\Debug\ReportToolDemo.pdb
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\ReportToolDemo\obj\Debug\ReportToolDemo.csprojResolveAssemblyReference.cache

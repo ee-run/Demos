@@ -1,0 +1,9 @@
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\MemCachedDemo\bin\Debug\MemCachedDemo.exe.config
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\MemCachedDemo\bin\Debug\MemCachedDemo.exe
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\MemCachedDemo\bin\Debug\MemCachedDemo.pdb
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\MemCachedDemo\obj\Debug\MemCachedDemo.csprojResolveAssemblyReference.cache
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\MemCachedDemo\obj\Debug\MemCachedDemo.frmCache.resources
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\MemCachedDemo\obj\Debug\MemCachedDemo.Properties.Resources.resources
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\MemCachedDemo\obj\Debug\MemCachedDemo.csproj.GenerateResource.Cache
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\MemCachedDemo\obj\Debug\MemCachedDemo.exe
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\MemCachedDemo\obj\Debug\MemCachedDemo.pdb

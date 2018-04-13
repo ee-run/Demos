@@ -1,0 +1,8 @@
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\DevControlDemo\bin\Debug\DevControlDemo.exe.config
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\DevControlDemo\bin\Debug\DevControlDemo.exe
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\DevControlDemo\bin\Debug\DevControlDemo.pdb
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\DevControlDemo\obj\Debug\DevControlDemo.frmDevExpressShow.resources
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\DevControlDemo\obj\Debug\DevControlDemo.Properties.Resources.resources
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\DevControlDemo\obj\Debug\DevControlDemo.csproj.GenerateResource.Cache
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\DevControlDemo\obj\Debug\DevControlDemo.exe
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\DevControlDemo\obj\Debug\DevControlDemo.pdb

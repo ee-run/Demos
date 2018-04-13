@@ -1,0 +1,6 @@
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\ConsoleTest\bin\Debug\ConsoleTest.exe
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\ConsoleTest\bin\Debug\ConsoleTest.pdb
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\ConsoleTest\obj\Debug\ConsoleTest.exe
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\ConsoleTest\obj\Debug\ConsoleTest.pdb

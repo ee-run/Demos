@@ -1,0 +1,8 @@
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\TaskFactoryDemo\bin\Debug\TaskFactoryDemo.exe.config
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\TaskFactoryDemo\bin\Debug\TaskFactoryDemo.exe
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\TaskFactoryDemo\bin\Debug\TaskFactoryDemo.pdb
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\TaskFactoryDemo\obj\Debug\TaskFactoryDemo.frmTaskFactory.resources
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\TaskFactoryDemo\obj\Debug\TaskFactoryDemo.Properties.Resources.resources
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\TaskFactoryDemo\obj\Debug\TaskFactoryDemo.csproj.GenerateResource.Cache
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\TaskFactoryDemo\obj\Debug\TaskFactoryDemo.exe
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\TaskFactoryDemo\obj\Debug\TaskFactoryDemo.pdb

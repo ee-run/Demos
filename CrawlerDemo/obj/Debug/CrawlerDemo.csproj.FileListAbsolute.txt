@@ -1,0 +1,5 @@
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\CrawlerDemo\bin\Debug\CrawlerDemo.exe.config
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\CrawlerDemo\bin\Debug\CrawlerDemo.exe
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\CrawlerDemo\bin\Debug\CrawlerDemo.pdb
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\CrawlerDemo\obj\Debug\CrawlerDemo.exe
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\CrawlerDemo\obj\Debug\CrawlerDemo.pdb

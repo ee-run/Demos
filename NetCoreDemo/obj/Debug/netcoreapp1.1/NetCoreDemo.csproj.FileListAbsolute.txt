@@ -1,0 +1,9 @@
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\NetCoreDemo\bin\Debug\netcoreapp1.1\NetCoreDemo.deps.json
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\NetCoreDemo\bin\Debug\netcoreapp1.1\NetCoreDemo.runtimeconfig.json
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\NetCoreDemo\bin\Debug\netcoreapp1.1\NetCoreDemo.runtimeconfig.dev.json
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\NetCoreDemo\bin\Debug\netcoreapp1.1\NetCoreDemo.dll
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\NetCoreDemo\bin\Debug\netcoreapp1.1\NetCoreDemo.pdb
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\NetCoreDemo\obj\Debug\netcoreapp1.1\NetCoreDemo.csprojResolveAssemblyReference.cache
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\NetCoreDemo\obj\Debug\netcoreapp1.1\NetCoreDemo.AssemblyInfo.cs
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\NetCoreDemo\obj\Debug\netcoreapp1.1\NetCoreDemo.dll
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\NetCoreDemo\obj\Debug\netcoreapp1.1\NetCoreDemo.pdb

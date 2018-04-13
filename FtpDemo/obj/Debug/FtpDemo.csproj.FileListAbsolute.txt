@@ -1,0 +1,7 @@
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\FtpDemo\bin\Debug\FtpDemo.exe.config
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\FtpDemo\bin\Debug\FtpDemo.exe
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\FtpDemo\bin\Debug\FtpDemo.pdb
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\FtpDemo\obj\Debug\FtpDemo.Properties.Resources.resources
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\FtpDemo\obj\Debug\FtpDemo.csproj.GenerateResource.Cache
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\FtpDemo\obj\Debug\FtpDemo.exe
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\FtpDemo\obj\Debug\FtpDemo.pdb

@@ -1,0 +1,5 @@
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\RabbitMQDemo\bin\Debug\RabbitMQDemo.exe.config
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\RabbitMQDemo\bin\Debug\RabbitMQDemo.exe
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\RabbitMQDemo\bin\Debug\RabbitMQDemo.pdb
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\RabbitMQDemo\obj\Debug\RabbitMQDemo.exe
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\RabbitMQDemo\obj\Debug\RabbitMQDemo.pdb

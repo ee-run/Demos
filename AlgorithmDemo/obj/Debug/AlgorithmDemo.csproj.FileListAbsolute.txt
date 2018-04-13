@@ -1,0 +1,7 @@
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\AlgorithmDemo\obj\Debug\AlgorithmDemo.Properties.Resources.resources
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\AlgorithmDemo\obj\Debug\AlgorithmDemo.csproj.GenerateResource.Cache
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\AlgorithmDemo\bin\Debug\AlgorithmDemo.exe.config
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\AlgorithmDemo\bin\Debug\AlgorithmDemo.exe
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\AlgorithmDemo\bin\Debug\AlgorithmDemo.pdb
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\AlgorithmDemo\obj\Debug\AlgorithmDemo.exe
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\AlgorithmDemo\obj\Debug\AlgorithmDemo.pdb

@@ -1,0 +1,7 @@
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\FactoryDesignDemo\bin\Debug\FactoryDesignDemo.exe.config
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\FactoryDesignDemo\bin\Debug\FactoryDesignDemo.exe
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\FactoryDesignDemo\bin\Debug\FactoryDesignDemo.pdb
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\FactoryDesignDemo\obj\Debug\FactoryDesignDemo.Properties.Resources.resources
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\FactoryDesignDemo\obj\Debug\FactoryDesignDemo.csproj.GenerateResource.Cache
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\FactoryDesignDemo\obj\Debug\FactoryDesignDemo.exe
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\FactoryDesignDemo\obj\Debug\FactoryDesignDemo.pdb

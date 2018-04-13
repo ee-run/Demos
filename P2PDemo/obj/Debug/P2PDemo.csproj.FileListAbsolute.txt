@@ -1,0 +1,7 @@
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\P2PDemo\bin\Debug\P2PDemo.exe.config
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\P2PDemo\bin\Debug\P2PDemo.exe
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\P2PDemo\bin\Debug\P2PDemo.pdb
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\P2PDemo\obj\Debug\P2PDemo.Properties.Resources.resources
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\P2PDemo\obj\Debug\P2PDemo.csproj.GenerateResource.Cache
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\P2PDemo\obj\Debug\P2PDemo.exe
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\P2PDemo\obj\Debug\P2PDemo.pdb

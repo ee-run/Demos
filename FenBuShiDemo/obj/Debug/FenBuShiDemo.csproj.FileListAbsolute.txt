@@ -1,0 +1,7 @@
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\FenBuShiDemo\bin\Debug\FenBuShiDemo.exe.config
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\FenBuShiDemo\bin\Debug\FenBuShiDemo.exe
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\FenBuShiDemo\bin\Debug\FenBuShiDemo.pdb
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\FenBuShiDemo\obj\Debug\FenBuShiDemo.Properties.Resources.resources
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\FenBuShiDemo\obj\Debug\FenBuShiDemo.csproj.GenerateResource.Cache
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\FenBuShiDemo\obj\Debug\FenBuShiDemo.exe
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\FenBuShiDemo\obj\Debug\FenBuShiDemo.pdb

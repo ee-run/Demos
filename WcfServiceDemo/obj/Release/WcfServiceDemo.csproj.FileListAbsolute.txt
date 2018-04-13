@@ -1,0 +1,5 @@
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\WcfServiceDemo\bin\WcfServiceDemo.dll.config
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\WcfServiceDemo\bin\WcfServiceDemo.dll
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\WcfServiceDemo\bin\WcfServiceDemo.pdb
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\WcfServiceDemo\obj\Release\WcfServiceDemo.dll
+G:\Huangjianbao\MyGit\Test\WebServiceDemo\WcfServiceDemo\obj\Release\WcfServiceDemo.pdb
