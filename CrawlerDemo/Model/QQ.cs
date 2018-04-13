@@ -4,15 +4,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CrawlerDemo
+namespace CrawlerDemo.Model
 {
     /// <summary>
-    /// 程序入口
+    /// QQ账号
     /// </summary>
-    class Program
+    public class QQ
     {
-        static void Main(string[] args)
-        {
-        }
+        // 账号
+
+        // 密码
+
+        // 昵称
+
+        // 等级
+
+        // 好友分组集合
+
     }
 }
