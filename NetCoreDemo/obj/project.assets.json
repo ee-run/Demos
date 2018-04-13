@@ -9775,10 +9775,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Huangjianbao\\MyGit\\Test\\WebServiceDemo\\NetCoreDemo\\NetCoreDemo.csproj",
+      "projectUniqueName": "G:\\Huangjianbao\\MyGit\\CSharp-demos\\Demos\\NetCoreDemo\\NetCoreDemo.csproj",
       "projectName": "NetCoreDemo",
-      "projectPath": "G:\\Huangjianbao\\MyGit\\Test\\WebServiceDemo\\NetCoreDemo\\NetCoreDemo.csproj",
-      "outputPath": "G:\\Huangjianbao\\MyGit\\Test\\WebServiceDemo\\NetCoreDemo\\obj\\",
+      "projectPath": "G:\\Huangjianbao\\MyGit\\CSharp-demos\\Demos\\NetCoreDemo\\NetCoreDemo.csproj",
+      "outputPath": "G:\\Huangjianbao\\MyGit\\CSharp-demos\\Demos\\NetCoreDemo\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
